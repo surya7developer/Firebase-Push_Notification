@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799394128165",
+    "project_id": "fcmnotification-de417",
+    "storage_bucket": "fcmnotification-de417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799394128165:android:7e00dd7236fd316a16bacc",
+        "android_client_info": {
+          "package_name": "com.suresh.fcm.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBhqfqiDVV8NXi_COsP_PUo5zNDGakCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
